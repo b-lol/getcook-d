@@ -1,10 +1,10 @@
- # 🍳 Cookd – Bringing Neighborhood Flavors to Your Table
+ # 🍳 Get Cookd – Bringing Neighborhood Flavors to Your Table
 
-**Cookd** is your go-to platform for discovering and enjoying delicious homemade meals crafted by talented local cooks in your neighborhood. Whether you're craving authentic home-cooked flavors, looking to support local talent, or simply want a break from cooking, **Cookd** makes it easier than ever to connect with passionate home chefs near you.
+**Get Cookd** is your go-to platform for discovering and enjoying delicious homemade meals crafted by talented local cooks in your neighborhood. Whether you're craving authentic home-cooked flavors, looking to support local talent, or simply want a break from cooking, **Get Cookd** makes it easier than ever to connect with passionate home chefs near you.
 
 ---
 
-## 🌟 Why Choose Cookd?
+## 🌟 Why Use Get Cookd?
 
 - **Support Local Talent:** Order from skilled home cooks and support local food creators in your community.
 - **Authentic Homemade Flavors:** Enjoy fresh, homemade meals prepared with love and care.
